@@ -1,0 +1,282 @@
+# Copyright (C) 2018 Logus Toolbox
+# This file is distributed under the same license as the Logus Toolbox package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Logus Toolbox 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/logus-toolbox."
+"mount\n"
+"POT-Creation-Date: 2018-11-22 10:52:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-brands.php:41
+msgid "Brand"
+msgstr ""
+
+#: includes/class-brands.php:42
+msgid "Brands"
+msgstr ""
+
+#: includes/class-brands.php:110 includes/class-services.php:110
+#: includes/class-testimonies.php:108
+msgid "Logus - Help and Tools"
+msgstr ""
+
+#: includes/class-brands.php:133 includes/class-services.php:134
+msgid "Featured Image"
+msgstr ""
+
+#: includes/class-brands.php:137
+msgid "To set an logo or brand image, use the \"Featured Image\" picker."
+msgstr ""
+
+#: includes/class-brands.php:143 includes/class-services.php:158
+msgid "Link"
+msgstr ""
+
+#: includes/class-brands.php:146
+msgid "Link to company page."
+msgstr ""
+
+#: includes/class-brands.php:156 includes/class-services.php:171
+#: includes/class-testimonies.php:145
+msgid "by"
+msgstr ""
+
+#: includes/class-portfolio.php:42
+msgid "Portfolio"
+msgstr ""
+
+#: includes/class-portfolio.php:43
+msgid "Portfolios"
+msgstr ""
+
+#: includes/class-services.php:41
+msgid "Service"
+msgstr ""
+
+#: includes/class-services.php:42
+msgid "Services"
+msgstr ""
+
+#: includes/class-services.php:138
+msgid "To set a image to this service page, use the \"Featured Image\" picker."
+msgstr ""
+
+#: includes/class-services.php:145
+msgid "Icon"
+msgstr ""
+
+#: includes/class-services.php:148
+msgid "Set a foundation icon to this service page."
+msgstr ""
+
+#: includes/class-services.php:161
+msgid "Default is set to blank."
+msgstr ""
+
+#: includes/class-testimonies.php:41
+msgid "Testimonial"
+msgstr ""
+
+#: includes/class-testimonies.php:42
+msgid "Testimonials"
+msgstr ""
+
+#: includes/class-testimonies.php:132
+msgid "Position"
+msgstr ""
+
+#: includes/class-testimonies.php:135
+msgid "Job position"
+msgstr ""
+
+#: logus-toolbox.php:313
+msgid ""
+"Logus Toolbox <a href=\"%s\">deactivated</a>. Needs <a target=\"_blank\" "
+"href=\"https://superadmin.es/logus\">Logus Theme</a> to work."
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:77 vendor/cpt-core/CPT_Core.php:81
+#: vendor/cpt-core/CPT_Core.php:85
+msgid "It is required to pass a single, plural and slug string to CPT_Core"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:142 vendor/cpt-core/CPT_Core.php:143
+msgid "Add New %s"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:144
+msgid "Edit %s"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:145
+msgid "New %s"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:146
+msgid "All %s"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:147
+msgid "View %s"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:148
+msgid "Search %s"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:149
+msgid "No %s"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:150
+msgid "No %s found in Trash"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:151
+msgid "Parent %s:"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:153
+msgid "Insert into %s"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:154
+msgid "Uploaded to this %s"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:155
+msgid "%s list"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:156
+msgid "%s list navigation"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:157
+msgid "Filter %s list"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:207
+msgid "Custom field updated."
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:208
+msgid "Custom field deleted."
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:209 vendor/cpt-core/CPT_Core.php:226
+msgid "%1$s updated."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: vendor/cpt-core/CPT_Core.php:211
+msgid "%1$s restored to revision from %2$s"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:212
+msgid "%1$s saved."
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:217
+msgid "%1$s updated. <a href=\"%2$s\">View %1$s</a>"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:218
+msgid "%1$s published. <a href=\"%2$s\">View %1$s</a>"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:219
+msgid "%1$s submitted. <a target=\"_blank\" href=\"%2$s\">Preview %1$s</a>"
+msgstr ""
+
+#. translators: Publish box date format, see http://php.net/date
+#: vendor/cpt-core/CPT_Core.php:221
+msgid ""
+"%1$s scheduled for: <strong>%2$s</strong>. <a target=\"_blank\" href=\"%3$s"
+"\">Preview %1$s</a>"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:221 vendor/cpt-core/CPT_Core.php:230
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:222
+msgid "%1$s draft updated. <a target=\"_blank\" href=\"%2$s\">Preview %1$s</a>"
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:227
+msgid "%1$s published."
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:228
+msgid "%1$s submitted."
+msgstr ""
+
+#. translators: Publish box date format, see http://php.net/date
+#: vendor/cpt-core/CPT_Core.php:230
+msgid "%1$s scheduled for: <strong>%2$s</strong>."
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:231
+msgid "%1$s draft updated."
+msgstr ""
+
+#: vendor/cpt-core/CPT_Core.php:249
+msgid "%1$s %2$s updated."
+msgid_plural "%1$s %3$s updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendor/cpt-core/CPT_Core.php:250
+msgid "%1$s %2$s not updated, somebody is editing it."
+msgid_plural "%1$s %3$s not updated, somebody is editing them."
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendor/cpt-core/CPT_Core.php:251
+msgid "%1$s %2$s permanently deleted."
+msgid_plural "%1$s %3$s permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendor/cpt-core/CPT_Core.php:252
+msgid "%1$s %2$s moved to the Trash."
+msgid_plural "%1$s %3$s moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendor/cpt-core/CPT_Core.php:253
+msgid "%1$s %2$s restored from the Trash."
+msgid_plural "%1$s %3$s restored from the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendor/cpt-core/CPT_Core.php:305
+msgid "%s Title"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Logus Toolbox"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://superadmin.es/logus"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plugin for Logus Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SuperAdmin"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://superadmin.es"
+msgstr ""
